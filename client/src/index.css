@@ -14,7 +14,7 @@ code {
 body{
   background-color:rgb(24, 23, 23);
   color : white;
-  background-image: url("E:\redbelly\swapTokens\client\backgroundImg.jpg");
+  background-image: url("../backgroundImg.jpg");
 }
 
 .token-swap {
