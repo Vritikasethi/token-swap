@@ -6,7 +6,7 @@ import abi2 from '../src/assets/ERC20_A.json';
 import abi3 from '../src/assets/POOL.json';
 import {Contract,BrowserProvider} from "ethers";
 import{useState, useEffect} from "react";
-import { ERR_CONTRACT_MISSING_FROM_ADDRESS } from 'web3';
+
 
 
 function App() {
